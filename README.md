@@ -4,7 +4,7 @@ This repository contains a full data exploration of a real-world bank dataset us
 
 We examined why customers leave the bank (churn) and uncovered key patterns using Pandas, Matplotlib, and Seaborn.
 
-Project Overview
+**Project Overview**
 Real-world dataset of over 10,000 bank customers
 
 Goal: Find reasons behind customer churn
@@ -13,7 +13,7 @@ Data visualized across features like age, credit score, balance, salary, and mor
 
 Identified important trends in customer behavior
 
-Key Insights
+**Key Insights**
 Customers who are older with high balances are more likely to churn
 
 Many customers maintain a zero balance despite having good credit
@@ -24,28 +24,30 @@ Active credit card users are less likely to leave
 
 Income has a weak influence on churn
 
-What’s Inside
+**What’s Inside**
 Final Project.ipynb – Jupyter Notebook with all analysis, charts, and insights
 
 BANKING PROJECT.pptx – A summary presentation for reporting or storytelling
 
-Project Goal
+**Project Goal**
 Understand bank customer behavior
 
 Identify patterns in churn
 
 Provide data-driven insights for customer retention
 
-Tools Used
+**Tools Used**
 Python: Pandas, NumPy, Matplotlib, Seaborn
+
 Jupyter Notebook
+
 Microsoft PowerPoint
 
-Note
+**Note**
 This repo includes a PowerPoint presentation summarizing the notebook.
 Use it for sharing results or presenting to others.
 
-Thanks for Visiting
+**Thanks for Visiting**
 Feel free to explore, fork, or contribute.
 ⭐ Star this repo if you find it useful!
 
